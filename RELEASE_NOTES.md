@@ -126,6 +126,8 @@ This allows you to safely return to a stable release if needed.
   - Added native drivers for Moravian Instruments cameras and integrated filter wheels
 
 ### **User Interface & Usability**
+ **Canon Driver Error Messages**
+  - Improved the "Invalid Mode" error message to guide users to check the Movie/Still switch on cameras like the EOS 6D, preventing confusion when the camera is in Movie mode.
 - **Sequencer**
   - Each intstruction container now has a colored border on the left side to better differentiate between them. This can be disabled in Options > Imaging > Sequence > Colored Container Borders
 - **Sky Atlas Improvements**  
